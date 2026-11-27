@@ -1,6 +1,6 @@
 # @apilki/wb — Postman Collection
 
-**Запросов: 300 · Собрано: 2026-11-25**
+**Запросов: 300 · Собрано: 2026-11-27**
 
 Готовая [Postman Collection v2.1](postman/collection.json) для **Wildberries Seller API**: 300 запросов — все операции официальной спецификации, по папкам-разделам.
 
